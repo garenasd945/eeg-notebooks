@@ -91,3 +91,10 @@ The best place for general discussion on eeg-notebooks functionality is the `iss
    :align: center
    :scale: 50
    
+##PsychoPy
+PsychoPy 是一款用于编写心理学实验程序的Python库。它提供了一个可视化的编程界面，可以通过拖放和点选来创建心理学实验的各个组件，包括刺激呈现、响应记录、实验流程和数据收集等。此外，PsychoPy 还支持多种刺激类型，如文本、图像、声音和视频等，可以满足不同类型实验的需求。
+PsychoPy 可以在多个平台上运行，包括 Windows、MacOS 和 Linux，同时也可以与其他 Python 库和软件集成，如 NumPy、Pandas、Matplotlib 和 OpenCV 等。
+PsychoPy 还提供了许多有用的工具和函数，例如实验控制、刺激生成、响应记录和数据分析等，可以使心理学实验的编写和分析更加方便和高效。此外，PsychoPy 还有一个活跃的社区，用户可以分享自己的代码和经验，获取支持和反馈。
+总之，PsychoPy 是一款功能强大、易于使用的 Python 库，可以帮助心理学研究人员和实验者创建和运行心理学实验。
+
+
